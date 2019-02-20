@@ -1,0 +1,13 @@
+es:
+  layouts:
+    application:
+      logout_link: 'Cerrar Sesión'
+      login_link: 'Iniciar Sesión'
+      signup_link: 'Regístrate'
+  images:
+    new:
+      form:
+        error: 'Ha ocurrido un error al intentar crear tu %{model}'
+    image:
+      edit_link: 'Editar'
+      remove_link: 'Eliminar'
